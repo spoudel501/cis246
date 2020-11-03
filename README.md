@@ -1,2 +1,2 @@
-# cis246
+# Linux2
 Lab 1 repository
