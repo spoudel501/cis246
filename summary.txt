@@ -2,3 +2,9 @@ First Lab work
 some of the results i have found while using same commands in different linux environment:
 Most of the results are same in both machine.While I was doing ls command It will show only one in CentOs and many in Ubuntu because there were many built in Directories in Ubuntu.
 when using listing Ubuntu contains many files then CentOs.while doing man ls command Ubuntu would give less description than CentOs.
+
+Thank you,
+
+Name:susmita poudel
+Date:11/10/2020
+
