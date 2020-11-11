@@ -1,7 +1,9 @@
 First Lab work
-some of the results i have found while using same commands in different linux environment:
+some of the results I have found while using Linux commands in different linux environment:
 Most of the results are same in both machine.While I was doing ls command It will show repos only in CentOs and many in Ubuntu because there were many built in Directories in Ubuntu already.
 when using listing commands Ubuntu contains many files than CentOs.while doing man ls command Ubuntu would give less description than in CentOs.
+while using whatis passwd command ubuntu will tell to change the user account passwords & in Centos shows to update user's authentication tokens.
+I found many similarities than the differences.
 
 Thank you,
 
